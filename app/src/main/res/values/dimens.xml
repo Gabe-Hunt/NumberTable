@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultTextSize">32sp</dimen>
+    <dimen name="editTextWidth">60dp</dimen>
+    <dimen name="checkBoxWidth">30dp</dimen>
+    <dimen name="checkBoxTextSize">20sp</dimen>
+    <dimen name="tableFont">24sp</dimen>
+    <dimen name="padding">15sp</dimen>
+</resources>

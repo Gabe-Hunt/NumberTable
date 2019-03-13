@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Number Table</string>
+    <string name="rangeLabel">Range:</string>
+    <string name="toLabel">to</string>
+    <string name="submitButtonLabel">Submit</string>
+    <string name="columnsLabel">Columns:</string>
+    <string name="squared">n²</string>
+    <string name="cubed">n³</string>
+    <string name="sqrt">√n</string>
+    <string name="factorial">!n</string>
+
+</resources>
